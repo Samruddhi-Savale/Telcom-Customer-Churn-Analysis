@@ -79,9 +79,9 @@ Clear graphs are used to make the analysis easy to understand.
 
 - **Telco Customer Churn Dataset**  
 Contains customer details such as demographics, services used, billing information, and churn status.
-**Dataset Used:** <a href = "https://github.com/Samruddhi-Savale/Telcom-Customer-Churn-Analysis/blob/main/Customer%20Churn.csv"> csv - Dataset </a>
-**Jupyter Notebook:** <a href = "https://github.com/Samruddhi-Savale/Telcom-Customer-Churn-Analysis/blob/main/Executive%20Summary.pdf"> Code </a>
-**Project Details:** <a href = "https://github.com/Samruddhi-Savale/Telcom-Customer-Churn-Analysis/blob/main/TCA.ipynb"> Summary </a>
+- **Dataset Used:** <a href = "https://github.com/Samruddhi-Savale/Telcom-Customer-Churn-Analysis/blob/main/Customer%20Churn.csv"> csv - Dataset </a>
+- **Jupyter Notebook:** <a href = "https://github.com/Samruddhi-Savale/Telcom-Customer-Churn-Analysis/blob/main/Executive%20Summary.pdf"> Code </a>
+- **Project Details:** <a href = "https://github.com/Samruddhi-Savale/Telcom-Customer-Churn-Analysis/blob/main/TCA.ipynb"> Summary </a>
 
 ---
 
